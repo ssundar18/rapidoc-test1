@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>rapi-doc</name>
+    </assembly>
+    <members>
+        <member name="M:rapi_doc.Controllers.StudentController.GetStudent">
+            <summary>
+            Student List
+            </summary>
+            <returns>Student Name and Age information will be returned</returns>
+        </member>
+        <member name="P:rapi_doc.Student.Name">
+            <summary>
+            Name of the student
+            </summary>
+        </member>
+        <member name="P:rapi_doc.Student.Age">
+            <summary>
+            Age of the student
+            </summary>
+        </member>
+        <member name="P:rapi_doc.Student.BirthDate">
+            <summary>
+            Birth date of the student
+            </summary>
+        </member>
+        <member name="P:rapi_doc.Staff.Name">
+            <summary>
+            Name of the student
+            </summary>
+        </member>
+        <member name="P:rapi_doc.Staff.Age">
+            <summary>
+            Age of the student
+            </summary>
+        </member>
+        <member name="P:rapi_doc.Staff.BirthDate">
+            <summary>
+            Birth date of the student
+            </summary>
+        </member>
+    </members>
+</doc>
